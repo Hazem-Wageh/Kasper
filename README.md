@@ -1,21 +1,75 @@
-# Template Two
+# 🎨 Kasper
 
-This is **Template Two**, which I developed from a free PSD design I downloaded from **GraphBerry**.  
-I transformed the PSD into a fully functional and responsive HTML & CSS website.
+## 📌 Overview
+Kasper is a modern and fully responsive website template built using **HTML5** and **CSS3**, based on a PSD design from GraphBerry.  
 
-## 💡 What I Did
-- Converted the PSD design into code manually.
-- Built the layout using **HTML5** and **CSS3**.
-- Applied **responsive design** principles for mobile and desktop screens.
-- Used **Google Fonts** and clean, modern styling.
+The project focuses on transforming a static design into a clean, functional, and responsive web interface.
 
-## 🎨 Original Design
-Design source: [GraphBerry PSD Template](https://graphberry.com)  
+---
 
-## 🙏 Credits
+## 🚀 Features
+- ✅ Clean and modern UI design  
+- ✅ Fully responsive (Mobile / Tablet / Desktop)  
+- ✅ Smooth layout and section structure  
+- ✅ Reusable and maintainable code  
+- ✅ Built with pure HTML & CSS  
+
+---
+
+## 🛠️ Technologies Used
+- HTML5  
+- CSS3 (Flexbox, Grid, Media Queries)  
+- Google Fonts  
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Section
+![Home](assets/images/Screenshots 1.png)
+
+### 🛠️ Services Section
+![Services](assets/images/Screenshots 3.png)
+
+### 🎯 Portfolio Section
+![Portfolio](assets/images/Screenshots 7.png)
+
+> 📌 ضع الصور داخل فولدر: `assets/images`
+
+---
+
+## 🔗 Live Demo
+👉 [View Live Demo](https://yourusername.github.io/Template-Two/)
+
+---
+
+## 📚 What I Learned
+- Converting PSD designs into real-world websites  
+- Building responsive layouts using CSS Grid & Flexbox  
+- Improving UI/UX structure and spacing  
+- Writing clean and maintainable frontend code  
+
+---
+
+## 🎨 Design Source
+Original PSD design from:  
+👉 https://graphberry.com  
+
+---
+
+## 👨‍💻 My Role
+- Converted the full design from PSD to code  
+- Built all UI components manually  
+- Implemented responsive design for all screen sizes  
+
+---
+
+## 📬 Contact
+- GitHub: https://github.com/Hazem-Wageh  
+- LinkedIn: (add your link here)
+
+---
+
+## 🙌 Credits
 - Design by GraphBerry  
-- Development by **[Hazem wageh]**
-
-## 📸 Live Preview
-You can view the live version [here](#)  
-(Replace `https://github.com/Hazem-Wageh/Template-Two.git` with your GitHub Pages or live demo link)
+- Developed by **Hazem Wageh**
