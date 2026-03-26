@@ -66,7 +66,7 @@ Original PSD design from:
 
 ## 📬 Contact
 - GitHub: https://github.com/Hazem-Wageh  
-- LinkedIn: (add your link here)
+- LinkedIn: (https://www.linkedin.com/in/hazem-wageh/)
 
 ---
 
